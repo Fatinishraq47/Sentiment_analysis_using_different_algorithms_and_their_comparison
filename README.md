@@ -10,4 +10,5 @@ Steps:
 ---------------------------------------------------------------------------------------
 
 ==> The number of true positive, true negative, false positive and false negative is compared in a table which is included in 'comparison.jpg' file
+
 ==> The f1 scores are compared in 'f1_scores.jpg' file
